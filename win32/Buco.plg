@@ -1,0 +1,48 @@
+<html>
+<body>
+<pre>
+<h1>ﾋﾞﾙﾄﾞのﾛｸﾞ</h1>
+<h3>
+--------------------構成: Buco - Win32 Debug--------------------
+</h3>
+<h3>ｺﾏﾝﾄﾞ ﾗｲﾝ</h3>
+Creating command line "rc.exe /l 0x411 /fo"Debug/Buco.res" /d "_DEBUG" "D:\Work\Buco\win32\Buco.rc"" 
+一時ﾌｧｲﾙ "C:\DOCUME~1\shuichi\LOCALS~1\Temp\RSP97.tmp" を作成し、次の内容を記録します
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /FR"Debug/" /Fp"Debug/Buco.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\Work\Buco\win32\Buco.cpp"
+"D:\Work\Buco\win32\BucoDlg.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\shuichi\LOCALS~1\Temp\RSP97.tmp" 
+一時ﾌｧｲﾙ "C:\DOCUME~1\shuichi\LOCALS~1\Temp\RSP98.tmp" を作成し、次の内容を記録します
+[
+wsock32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Buco.pdb" /debug /machine:I386 /out:"Debug/Buco.exe" /pdbtype:sept 
+.\Debug\Buco.obj
+.\Debug\BucoDlg.obj
+.\Debug\FTPclient.obj
+.\Debug\http.obj
+.\Debug\MyHttp.obj
+.\Debug\sock.obj
+.\Debug\StdAfx.obj
+.\Debug\token.obj
+.\Debug\Buco.res
+]
+ｺﾏﾝﾄﾞ ﾗｲﾝ "link.exe @C:\DOCUME~1\shuichi\LOCALS~1\Temp\RSP98.tmp" の作成中
+<h3>ｱｳﾄﾌﾟｯﾄ ｳｨﾝﾄﾞｳ</h3>
+ﾘｿｰｽをｺﾝﾊﾟｲﾙ中...
+ｺﾝﾊﾟｲﾙ中...
+Buco.cpp
+BucoDlg.cpp
+ｺｰﾄﾞを生成中...
+ﾘﾝｸ中...
+ｺﾏﾝﾄﾞ ﾗｲﾝ "bscmake.exe /nologo /o"Debug/Buco.bsc"  .\Debug\StdAfx.sbr .\Debug\Buco.sbr .\Debug\BucoDlg.sbr .\Debug\FTPclient.sbr .\Debug\http.sbr .\Debug\MyHttp.sbr .\Debug\sock.sbr .\Debug\token.sbr" の作成中
+ﾌﾞﾗｳｻﾞ ﾃﾞｰﾀﾍﾞｰｽを作成中...
+<h3>ｱｳﾄﾌﾟｯﾄ ｳｨﾝﾄﾞｳ</h3>
+
+
+
+<h3>結果</h3>
+Buco.exe - ｴﾗｰ 0、警告 0
+</pre>
+</body>
+</html>
