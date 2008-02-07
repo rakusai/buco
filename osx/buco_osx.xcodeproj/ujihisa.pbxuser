@@ -1,0 +1,94 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecture = i386;
+		activeBuildConfigurationName = Release;
+		activeExecutable = 327B3ACD0D1BB1330052AC42 /* buco_osx */;
+		activeTarget = 4DDCA7030ACC9A6100E082CE /* buco_osx */;
+		addToTargets = (
+			4DDCA7030ACC9A6100E082CE /* buco_osx */,
+		);
+		codeSenseManager = 327B3AD90D1BB1530052AC42 /* Code sense */;
+		executables = (
+			327B3ACD0D1BB1330052AC42 /* buco_osx */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 223920221;
+			PBXWorkspaceStateSaveDate = 223920221;
+		};
+		sourceControlManager = 327B3AD80D1BB1530052AC42 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	327B3ACD0D1BB1330052AC42 /* buco_osx */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = buco_osx;
+		sourceDirectories = (
+		);
+	};
+	327B3AD80D1BB1530052AC42 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	327B3AD90D1BB1530052AC42 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	327B3ADB0D1BB1910052AC42 /* AppController.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 430}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 197}";
+			sepNavWindowFrame = "{{15, 465}, {750, 558}}";
+		};
+	};
+	4DDCA7030ACC9A6100E082CE /* buco_osx */ = {
+		activeExec = 0;
+		executables = (
+			327B3ACD0D1BB1330052AC42 /* buco_osx */,
+		);
+	};
+}
